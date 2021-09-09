@@ -1,0 +1,10 @@
+html {
+  background-color: rgba(0, 0, 0, 0.788);
+  color: rgba(255, 255, 255, 0.699);
+  font-family: "Helevetica", sans-serif;
+}
+
+.image {
+height: 300px;
+width: 300px;
+}
